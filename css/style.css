@@ -3,13 +3,11 @@
   margin: 0;
   padding: 0;
 }
-.loginPart{
-  background-color: black;
-}
 .loginpage {
   display: flex;
   margin: 5px auto;
   flex-direction: row;
+  background-color: black;
 }
 .img img {
   width: 40vw;
